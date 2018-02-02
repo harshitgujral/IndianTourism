@@ -1,0 +1,9 @@
+Front-End: Bootstrap, CSS, JQuery, JS
+
+Back-End: PHP
+
+Database:
+MySQL: Static database
+
+GeoSearch: Data Scrapped from wikipedia and stored in MySQL
+IndianTourism: Data Scrapped from TripAdvisor and stored in MySQL
