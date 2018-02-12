@@ -1,5 +1,5 @@
 # IndianTourism
-
+Illustrative Readme with snapshots of implemented Web-Application.
 ## Geo Search (Wise Parrot) and Indian Tourism.
 
 ![alt text](https://raw.githubusercontent.com/newtein/IndianTourism/master/UI/1.%20WelcomePage-1.JPG)
